@@ -1,6 +1,6 @@
 {
   "name": "shoelace-stylus",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Stylus preprocessor",
   "main": "index.js",
   "scripts": {
